@@ -57,7 +57,7 @@ h1 {
     align-items: center;
     gap: 12px;
     padding: 14px 18px;
-    border: 2px solid #333;
+    border: 2px solid #111010;
     border-radius: 14px;
     background-color: #000;
     color: white;
@@ -67,7 +67,7 @@ h1 {
 }
 
 .boton-pregunta:hover {
-    background-color: #222;
+    background-color: #3bc0c2;
 }
 
 .flecha {
@@ -82,7 +82,7 @@ h1 {
     border: 2px solid #333;
     border-radius: 16px;
     margin-top: 7px;
-    background-color: white;
+    background-color: rgb(91, 62, 206);
     font-size: 18px;
     line-height: 1.5;
 }
